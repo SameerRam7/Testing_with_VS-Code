@@ -1,0 +1,3 @@
+Second Statment is created
+1st Statement is Practicing Git & GitHub
+2nd Statement is about how to push in GitHub repository
